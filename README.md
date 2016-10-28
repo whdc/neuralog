@@ -1,2 +1,2 @@
-# las
-For tracking LAS file issues
+# neuralog
+For tracking Neuralog and other well log issues.
